@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Practica4" Database="" Version="10.0.0">
+  <Project Name="NaturalesGrandesTest" Path="NaturalesGrandesTest/NaturalesGrandesTest.project" Active="No"/>
+  <Project Name="primeraPotencia" Path="primeraPotencia/primeraPotencia.project" Active="No"/>
+  <Project Name="Fibonacci" Path="Fibonacci/Fibonacci.project" Active="No"/>
+  <Project Name="Lychrel" Path="Lychrel/Lychrel.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="NaturalesGrandesTest" ConfigName="Debug"/>
+      <Project Name="primeraPotencia" ConfigName="Debug"/>
+      <Project Name="Fibonacci" ConfigName="Debug"/>
+      <Project Name="Lychrel" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="NaturalesGrandesTest" ConfigName="Release"/>
+      <Project Name="primeraPotencia" ConfigName="Release"/>
+      <Project Name="Fibonacci" ConfigName="Release"/>
+      <Project Name="Lychrel" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

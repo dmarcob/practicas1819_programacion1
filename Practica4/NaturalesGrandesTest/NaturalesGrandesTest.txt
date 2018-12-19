@@ -1,0 +1,1 @@
+./Debug/naturales-grandes-test-main.cpp.o ./Debug/naturales-grandes.cpp.o ./Debug/up_up_Biblioteca_naturales-grandes-test.cpp.o   
