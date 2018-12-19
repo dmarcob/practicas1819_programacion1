@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="practica3" Database="" Version="10.0.0">
+  <Project Name="CalculadoraTest" Path="CalculadoraTest/CalculadoraTest.project" Active="No"/>
+  <Project Name="Calculadora" Path="Calculadora/Calculadora.project" Active="No"/>
+  <Project Name="MenuFechas" Path="MenuFechas/MenuFechas.project" Active="No"/>
+  <Project Name="FechasTest" Path="FechasTest/FechasTest.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="ssfdsf" ConfigName="Debug"/>
+      <Project Name="Calculadora" ConfigName="Debug"/>
+      <Project Name="CalculadoraTest" ConfigName="Debug"/>
+      <Project Name="Calculadora" ConfigName="Debug"/>
+      <Project Name="MenuFechas" ConfigName="Debug"/>
+      <Project Name="FechasTest" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="ssfdsf" ConfigName="Release"/>
+      <Project Name="Calculadora" ConfigName="Release"/>
+      <Project Name="CalculadoraTest" ConfigName="Release"/>
+      <Project Name="Calculadora" ConfigName="Release"/>
+      <Project Name="MenuFechas" ConfigName="Release"/>
+      <Project Name="FechasTest" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

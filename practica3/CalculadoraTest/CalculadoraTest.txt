@@ -1,0 +1,1 @@
+./Debug/up_up_Biblioteca_calculos.cpp.o ./Debug/testCalculadora.cc.o ./Debug/testCalculadora.cpp.o   
