@@ -1,0 +1,17 @@
+[{
+  "file": "C:\\Users\\diego\\Documents\\programacion1infor\\practica3\\PruebaFechas\\main.cpp",
+  "directory": "C:\\Users\\diego\\Documents\\programacion1infor\\practica3\\PruebaFechas",
+  "command": "C:/TDM-GCC-64/bin/g++.exe -c C:\\Users\\diego\\Documents\\programacion1infor\\practica3\\PruebaFechas\\main.cpp -o C:\\Users\\diego\\Documents\\programacion1infor\\practica3\\PruebaFechas\\main.cpp.o  -g  -O0  -Wall -I. -I."
+ }, {
+  "file": "C:\\Users\\diego\\Documents\\programacion1infor\\biblioteca\\Enteros\\calculos.cpp",
+  "directory": "C:\\Users\\diego\\Documents\\programacion1infor\\practica3\\PruebaCalculos",
+  "command": "C:/TDM-GCC-64/bin/g++.exe -c C:\\Users\\diego\\Documents\\programacion1infor\\biblioteca\\Enteros\\calculos.cpp -o C:\\Users\\diego\\Documents\\programacion1infor\\biblioteca\\Enteros\\calculos.cpp.o  -g  -O0  -Wall -I. -I."
+ }, {
+  "file": "C:\\Users\\diego\\Documents\\programacion1infor\\practica3\\Demo\\verificarPropiedades.cpp",
+  "directory": "C:\\Users\\diego\\Documents\\programacion1infor\\practica3\\Demo",
+  "command": "C:/TDM-GCC-64/bin/g++.exe -c C:\\Users\\diego\\Documents\\programacion1infor\\practica3\\Demo\\verificarPropiedades.cpp -o C:\\Users\\diego\\Documents\\programacion1infor\\practica3\\Demo\\verificarPropiedades.cpp.o  -g  -O0  -Wall -I. -I."
+ }, {
+  "file": "C:\\Users\\diego\\Documents\\programacion1infor\\biblioteca\\Enteros\\propiedades.cc",
+  "directory": "C:\\Users\\diego\\Documents\\programacion1infor\\practica3\\Demo",
+  "command": "C:/TDM-GCC-64/bin/g++.exe -c C:\\Users\\diego\\Documents\\programacion1infor\\biblioteca\\Enteros\\propiedades.cc -o C:\\Users\\diego\\Documents\\programacion1infor\\biblioteca\\Enteros\\propiedades.cc.o  -g  -O0  -Wall -I. -I."
+ }]

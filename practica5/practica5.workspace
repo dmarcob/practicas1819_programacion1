@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="practica5" Database="" Version="10.0.0">
+  <Project Name="Editar" Path="Editar/Editar.project" Active="No"/>
+  <Project Name="Localizar" Path="Localizar/Localizar.project" Active="No"/>
+  <Project Name="Valorar" Path="Valorar/Valorar.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Editar" ConfigName="Debug"/>
+      <Project Name="Localizar" ConfigName="Debug"/>
+      <Project Name="Valorar" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Editar" ConfigName="Release"/>
+      <Project Name="Localizar" ConfigName="Release"/>
+      <Project Name="Valorar" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

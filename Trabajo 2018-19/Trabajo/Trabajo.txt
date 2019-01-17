@@ -1,0 +1,1 @@
+./Debug/up_up_Biblioteca_bizi-estacion.cpp.o ./Debug/Trabajo.cpp.o ./Debug/up_up_Biblioteca_ordenes.cpp.o ./Debug/up_up_Biblioteca_bizi-usuario.cpp.o ./Debug/up_up_Biblioteca_bizi-usos.cpp.o   

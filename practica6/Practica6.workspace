@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Practica6" Database="" Version="10.0.0">
+  <Project Name="ContarUsos" Path="ContarUsos/ContarUsos.project" Active="No"/>
+  <Project Name="Estaciones" Path="Estaciones/Estaciones.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="ContarUsos" ConfigName="Debug"/>
+      <Project Name="Estaciones" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="ContarUsos" ConfigName="Release"/>
+      <Project Name="Estaciones" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

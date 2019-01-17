@@ -1,1 +1,0 @@
-./Debug/generarFicheroNotas.cpp.o ./Debug/grupo.cpp.o   

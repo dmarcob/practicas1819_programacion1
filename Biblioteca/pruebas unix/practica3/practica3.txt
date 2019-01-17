@@ -1,1 +1,0 @@
-./Debug/fecha.cc.o ./Debug/nif.cc.o ./Debug/persona.cc.o ./Debug/pueba1.cpp.o

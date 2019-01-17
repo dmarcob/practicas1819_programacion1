@@ -1,0 +1,1 @@
+./Debug/valorar.cpp.o ./Debug/up_up_Biblioteca_nombres.cpp.o   
